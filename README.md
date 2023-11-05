@@ -1,16 +1,10 @@
-# flutter_phonepe_demo
+# PhonePe Demo
 
-A new Flutter project.
+## About PhonePe:
+- The PhonePe Flutter SDK allows you to build delightful payment experiences in your native Android and iOS apps using Flutter. PhonePe provides powerful and customizable UI screens and elements that can use out-of-the-box to collect your users' payment details.\
+⚠️ I tested this application in the test-development environment only & it is working as expected.
 
-## Getting Started
+To Know more & read the official documentation, visit: https://pub.dev/packages/phonepe_payment_sdk
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/Pr3HXwkr/imgonline-com-ua-twotoone-NZs6cfmd-Ll.png "img")
